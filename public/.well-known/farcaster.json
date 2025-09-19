@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "LinguaCzech",
+    "subtitle": "Built with Zara",
+    "description": "LinguaCzech is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://cddb1a86fe7e42cb82065b8abc7b9571-1iru.vercel.app",
+    "splashImageUrl": "https://cddb1a86fe7e42cb82065b8abc7b9571-1iru.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://cddb1a86fe7e42cb82065b8abc7b9571-1iru.vercel.app/image.png",
+    "tagline": "LinguaCzech",
+    "screenshotUrls": [
+      "https://cddb1a86fe7e42cb82065b8abc7b9571-1iru.vercel.app/screenshot.png",
+      "https://cddb1a86fe7e42cb82065b8abc7b9571-1iru.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://cddb1a86fe7e42cb82065b8abc7b9571-1iru.vercel.app/api/webhook"
+  }
+}
